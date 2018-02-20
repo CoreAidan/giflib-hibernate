@@ -16,3 +16,7 @@ What this app does:
 What this app does **NOT** do:
 
 - Implement user authentication
+
+What I hope to eventually implement:
+
+- user authentication
