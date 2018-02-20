@@ -19,4 +19,4 @@ What this app does **NOT** do:
 
 What I hope to eventually implement:
 
-- user authentication
+- User authentication
