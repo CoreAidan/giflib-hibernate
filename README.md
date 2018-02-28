@@ -12,11 +12,4 @@ What this app does:
 - Performs server-side form validation for adding/updating GIFs and categories
 - Uses a database
 - Serves static assets, such as images, fonts, CSS, and JS
-
-What this app does **NOT** do:
-
-- Implement user authentication
-
-What I hope to eventually implement:
-
-- User authentication
+- Implements user authentication
